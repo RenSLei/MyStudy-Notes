@@ -11,7 +11,7 @@
 - [JavaWeb_Html_Note学习笔记](https://blog.csdn.net/renshilei123/article/details/80097055)
 
 - 
-## ohter notes
+## Other Notes
 ---
 
 - [AboutGitHub](https://github.com/RenSLei/MyStudyNotes/blob/master/AboutGithub.md) 
