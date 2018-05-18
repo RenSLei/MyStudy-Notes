@@ -1,5 +1,6 @@
 # MyStudy Notes
 ----
+## MyStudy Notes on the CSDN
 
 - [MySql_Note](https://blog.csdn.net/renshilei123/article/details/80103978)
 
@@ -10,3 +11,9 @@
 - [JavaWeb_Html_Note学习笔记](https://blog.csdn.net/renshilei123/article/details/80097055)
 
 - 
+## ohter notes
+---
+
+- [AboutGitHub](https://github.com/RenSLei/MyStudyNotes/blob/master/AboutGithub.md) 
+- [AboutMarkdown](https://github.com/RenSLei/MyStudyNotes/blob/master/Markdown.md)
+- [AtomKey](https://github.com/RenSLei/MyStudyNotes/blob/master/AotmKey.md)
